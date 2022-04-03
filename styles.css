@@ -1,0 +1,22 @@
+#section-one{
+    text-align: center;
+    font-family: 'BIZ UDPMincho', serif;
+    color: #E2C275;
+}
+#section-one .first{
+    padding: 20px;
+}
+#section-one .second{
+    padding: 20px;
+}
+#section-one .third{
+    padding: 20px 50px;
+    
+}
+
+#section-one h1{
+    font-weight: 100;
+}
+#section-one p{
+    color: black;
+}
